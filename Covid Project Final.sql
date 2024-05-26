@@ -1,3 +1,11 @@
+/*
+Covid 19 Data Exploration 
+
+Skills used: Joins, Temp Tables, Windows Functions, Aggregate Functions, Converting Data Types
+
+*/
+
+
 SELECT *
 From `covid-portfolio-project-424317.Covid_Project.CovidDeaths`
 Where continent is not null

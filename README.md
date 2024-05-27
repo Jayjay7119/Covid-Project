@@ -7,3 +7,6 @@ Here is the [Link](https://ourworldindata.org/covid-deaths) to the dataset (orig
 - Excel - Data Formatting 
 - SQL - Data Cleaning, Data Analysis
 - Tableau - Data Visualization
+
+## Dashboard
+Link to Dashboard [Here](https://public.tableau.com/app/profile/jayden.lopez3180/viz/CovidDashboard_17166822523450/Dashboard1)

@@ -1,5 +1,9 @@
-A Repository for Covid Data Project. 
-Link to Dashboard [Here](https://public.tableau.com/app/profile/jayden.lopez3180/viz/CovidDashboard_17166822523450/Dashboard1)
+A Repository for my Covid Data Project. 
 
 ## Data Source
 Here is the [Link](https://ourworldindata.org/covid-deaths) to the dataset (original file is too big for GitHub)
+
+## Tools Used 
+- Excel - Data Formatting 
+- SQL - Data Cleaning, Data Analysis
+- Tableau - Data Visualization
